@@ -20,6 +20,3 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# 5. Syntax aur dunder name sahi kiya
-if __name__ == "__main__":
-    logging.info("Logging has started")
