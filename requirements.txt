@@ -1,7 +1,10 @@
 pandas
 numpy
-scikit-learn==1.2.2
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 Flask
-dill
-gunicorn
-xgboost==1.7.3
+
+#-e .
